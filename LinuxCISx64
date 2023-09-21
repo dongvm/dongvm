@@ -780,5 +780,5 @@ HISTTIMEFORMAT='%F %T '
 PROMPT_COMMAND='history -a'
 " >> /root/.bashrc
 echo "RESTART SYSTEM"
-sleep 10
+sleep 11
 shutdown -r now
