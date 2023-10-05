@@ -2704,4 +2704,4 @@ if(([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::G
 
 $host.UI.RawUI.ForegroundColor = $fc
 
-shutdown /r /t 20
+shutdown /r /t 10
